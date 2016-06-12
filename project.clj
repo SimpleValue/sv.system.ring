@@ -1,4 +1,4 @@
-(defproject sv/system.ring "0.1.0-SNAPSHOT"
+(defproject sv/system.ring "0.1.0"
   :description "Components and helper functions to use Ring in a
                 sv/system-based application."
   :url "https://github.com/SimpleValue/sv.system.ring"
